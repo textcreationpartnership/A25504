@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer of some if not all the citizens of London &amp; freemen of England ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25504</idno>
+            <idno type="STC">Wing A3287</idno>
+            <idno type="STC">ESTC R38625</idno>
+            <idno type="EEBO-CITATION">17809918</idno>
+            <idno type="OCLC">ocm 17809918</idno>
+            <idno type="VID">106661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106661)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1114:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer of some if not all the citizens of London &amp; freemen of England ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Clowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: pages cropped, with print show-through; best copy available for photographing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:106661:1"/>
+            <head>
+               <hi>AN ANSVVER of ſome if not all the CITIZENS of London &amp; Freemen of ENGLAND,</hi> To a Paper entituled <hi>An Expreſs</hi> from the Knights, and Gentlemen now Engaged with Sir <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge Booth,</hi> to the City and Citi<g ref="char:EOLhyphen"/>zens of <hi>London,</hi> and all other Freemen of <hi>ENGLAND.</hi>
+            </head>
+            <p>AS we are <hi>Engliſh-men</hi> we are all incorporated into one Body, and though <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and different Families, Fortunes and Qua<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> yet <hi>fellow Members</hi> and <hi>Col<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irs</hi> of one and the ſame <hi>Bir<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> not only by <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> as we are the Sons of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en, (<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obliging all in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Common and equal Bond of Freedom and Unity) but b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce ta<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>ſacred Laws and Customes</hi> of peculiar and inhe<g ref="char:EOLhyphen"/>rent Flight to this Nation; general; equal and impartiall to all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with<g ref="char:EOLhyphen"/>out effect of perſons, rank, quality, or degree, de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved through all ſuc<g ref="char:EOLhyphen"/>ceſſions of Ages by the Blood, Juſtice, and prudence of our Fore fathers to us their Poſterity, as ours, and the Right of our Children after us, not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it able: though this Age were wholly made up or Apoſtates and Traytors to Common Juſtice and Freedom, and ſhould make ſale of, and deliver up their Children as Slaves and Vaſſals, yet <hi>Engliſh I Right at <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> to wit, our <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt Lawes and Liberties, and may juſtly beſte-inforced as oporturity may preſent; <hi>Sometimes they ſleep, but never die,</hi> their <hi>total E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tingu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ment</hi> is not to be imagined ſo long as any <hi>Engliſh-man,</hi> or <hi>Engliſh-blood</hi> abideth: and whoever undertaketh (though by Arms, or otherwiſe) their recovery and Redemption, is juſtified in that very Action by the Laws of God, of Nations, Nature, Reaſon, and
+<pb n="2" facs="tcp:106661:2"/>by the Laws of the Land; and within the Bowels of our Nation among our ſelves no War can be juſtified, but upon <hi>that ſcore;</hi> the contrary is Sedition, Murder, Treaſon, Tyranny, and what not? and the Inſtru<g ref="char:EOLhyphen"/>ments thereof no other in the Eye of <hi>Engliſh</hi> Freedom and Right, but as Bears, Wolves, and other Beaſts of prey.</p>
+            <p>Now right worthy and noble Citizens, and all other our <hi>Engliſh</hi> Bre<g ref="char:EOLhyphen"/>thren, let us conſider and lay to heart the ſad and deplorable condition of our native Countrey, Oppreſſion, Injuſtice, and Tyranny reigneth; Diviſion, Diſcord, and Diſſimulation fomented and foſtered; Trade and induſtry diſcouraged, our Land-rent into parties and factions, and the common Band of Unity Cancell'd, our Fundamentall Laws ſupplanted, High Courts of Juſtice introduced, the blood of War ſhed in times of Peace; A bitrary and illegal impriſonments, Pattents, Monopolies, Exciſe, and other payments brought upon us, and continued contrary to <hi>Magna Charta,</hi> and the Petition of Right; no form or face of Govern<g ref="char:EOLhyphen"/>ment of <hi>Engliſh Constitution</hi> among us; the Name and Authority of the People in Parliament uſurped and abuſed, and the ſtamp thereof put upon ſtrange and prodigious Actions, vexing and oppreſſing the People with daily changes and alterations in Government, as the Intereſt of ſome few ambitious Grandees alter and change or <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> advantages one of another, and all under the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of a Common-wealth,</hi> when as the Nature is not practiſed or intended at all, it being utterly inconſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent with their very temper and intereſt: they are wrapt up and compound<g ref="char:EOLhyphen"/>ed of nothing but guilt, blood, and Tyranny; and Equal and Common Juſtice (the Eſſence of a Common wealth) are utterly repugnant there<g ref="char:EOLhyphen"/>to; and whatſoever they <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, muſt be planted and maintained by Sword and violence, againſt the very Heart and Sence of the Nation; and they know not where; nor <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow to centre an Oligarchy, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome<g ref="char:EOLhyphen"/>thing they would have to be Maſters of the People, and perpetuate their power and Tyranny, and therefore would amaze and confound us with their New Debates of a <hi>Co-ordinute Power,</hi> or <hi>Senate for life,</hi> ſuch as our Engliſh Laws and Liberties know not of, and of pernitious Conſequence to this Nation; ſo that from theſe men that thus handle the Stern at <hi>VVestminster,</hi> there is no expectation of any juſt ſettlement of Peace or Freedom from Oppreſſion; eſpecially conſidering the Apoſtacy, Hy<g ref="char:EOLhyphen"/>pocriſie, Deceipt, and Perjury of thoſe men: their manifold ſolemn En<g ref="char:EOLhyphen"/>gagements, Oaths, Vows, Proteſtations, Appeals unto Heaven; Pro<g ref="char:EOLhyphen"/>miſes, Remonſtrances, Declarations, all by them broken again and again; never keeping Faith, Truce or Oath; being unbounded, unlimitted, cer<g ref="char:EOLhyphen"/>tain to nothing, not to be held either by the Law of God, of Man, of
+<pb n="3" facs="tcp:106661:2"/>Conſcience, or Reaſon: <hi>and from ſuch perſons in Government good Lord deliver <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and all the good People of <hi>England</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And that all this is true of them, your own Conſciences Noble Citizens, and all other the Free people of <hi>England</hi> can witneſs; there is no tongue, no pen is able to vindicate them in this point, it is known of all, owned by all, and can be denied by none; how then can any honeſt or juſt man ſhed any blood in their Quarrel, of lend them Aſſiſtance? ſurely that blood will be re<g ref="char:EOLhyphen"/>quired at their hands, and we doubt not but you will be carefull what you do.</p>
+            <p>And therefore from thoſe Conſiderations and juſt provocations we have taken up Arms in purſuance of, and Inquiſition after our Govern<g ref="char:EOLhyphen"/>ment, Lawes, and Liberties, that every <hi>Engliſh-man</hi> may be protected and ſecured in his Religion, Liberty, and property: and though it may be ſuggeſted, that we intend to introduce <hi>Proſecution for Conſcience</hi> in<g ref="char:EOLhyphen"/>to the Land again, we do hereby (in the preſence of Almighty God) pro<g ref="char:EOLhyphen"/>teſt and declare <hi>againſt all Coercive Power in matter of Religion,</hi> and that to the utmoſt of our ſtrength (through Gods aſſiſtance) we will en<g ref="char:EOLhyphen"/>deavour (to the hazzard of our blood and Fortunes) the Freedom and protection of all vertuous and religious people, by what name ſoever differenced from us, equall with our ſelves: And that no Forreign or other Authority (ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve only the Civil) be exerciſed in <hi>England:</hi> That the practiſe of the Law be reformed; all corrupt Statute repealed; Annual Elections of all Officers and Magiſtrates, with the conſtant Suc<g ref="char:EOLhyphen"/>ceſſion of Parliaments reſtored; our Fundamental Laws cleared and aſ<g ref="char:EOLhyphen"/>ſerted, and whatever is contrary there to be aboliſhed; That no Tayals be admitted in <hi>England</hi> for Life, Limb, Liberty, or Eſtate, but by the good old way of <hi>Juries,</hi> and that they be reſtored to their Original po<g ref="char:EOLhyphen"/>wer and purity: That all Extrajudicial and illegal proceedings by High-Courts of Juſtice, or otherwiſe, with all Illegal and Arbitrary Comittees be ſtrictly provided againſt: That the Exciſe and all other Payments and Taxes ſuch as our Anceſtors never knew of, together with all Monopo<g ref="char:EOLhyphen"/>lies and Patents deſtructive to Trade and the Comnion good of the Na<g ref="char:EOLhyphen"/>tion be alſo aboliſhed: And, that our Parliaments and Magiſtrates be ſe<g ref="char:EOLhyphen"/>cured from all Force and Violence, and utterly cleared from all bound<g ref="char:EOLhyphen"/>leſs Prerogative, and unlimited priviledge: That the Right of the Poor in the Commons of <hi>England,</hi> all Donations for Charitable Uſes, and all Lands formerly belonging to the People be reſtor'd again: And that Mercy and Juſtice be truly eſtabliſhed amongſt us. And for theſe ends and what elſe may be of publick good to the Nation, we do deſire, and
+<pb n="4" facs="tcp:106661:3"/>indeed challenge as of <hi>Engliſh</hi> Right the ſpeedy Election of a <hi>New Free, Parliament.</hi>
+            </p>
+            <p>And thus Moſt noble Citivens, Brethren and fellow Free <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> we have dealt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and plainly with you, and given you the real Grounds and Reaſon of our taking up Arms; I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>king upon you as the moſt concern <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Nation, and therefore hold our ſelves, the more oblieged to give you this <hi>I only Advice</hi> of ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Candid and Juſt Intenti<g ref="char:EOLhyphen"/>ons in this Undertaking, that you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay not be deluded or flighted (though <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y) into any ſtrange opinion of us, either through your own miſtake, or by the policy of thoſe men, who will leave no means unat<g ref="char:EOLhyphen"/>ten<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> us as Publick Enemies, Rebels and Traytors, Plun<g ref="char:EOLhyphen"/>derers, Tyranus and Perſecuters, or whatever is odicus and monſtrous, to engage you in Blood.</p>
+            <p>Were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e us, Right worthy Citizens, and Free-born <hi>Engliſh</hi> Brethren, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have no deſign of <hi>Fire</hi> or <hi>Sword,</hi> or of Evil toward you or your Ci<g ref="char:EOLhyphen"/>ty, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of the Nation, or any perſon in it: We know there are thouſand amongſt you that are ſatisfied in us; it may be indeed that <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoted Seperate Churches may be fearfull and jealous of us; and ſol may be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Arm: againſt us; but we do again and again proteſt before Almighty God, and the whole World, that we have no other purpoſe towards them, but that they with us, and we with them, may be bound up as Friends and Brethren in the Common <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, that every <hi>Engliſh</hi> man may have <hi>Engliſh</hi> Free<g ref="char:EOLhyphen"/>dome and Right; and we do not de<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e to wrong either Man; Woman, of Child the worth of a Shooe-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cher<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Therefore we hope you will ad<g ref="char:EOLhyphen"/>viſe before you proceed in a new War leſt you bring not only your own, but others blood on your heads (for we <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reſolved to proſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te this to the laſt drop of our blood.) The <hi>Gaſer of England</hi> is laid before you <hi>our Laws</hi> and <hi>Liberties,</hi> they are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ours as well as ours, and for which we have all engaged in the firſt War, and not to he ſo ſtreightly vallued, as to be ſet at ſtake againſt the private ends of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ambitious and corrupt perſons: <hi>Salus Populi, Suprema Lex,</hi> Let the People live, and their, Enemies periſh.</p>
+            <p>Therefore we beſeech you, we conjure you as <hi>Engliſh</hi>-men, to ſtand by your <hi>Native</hi> Country, and your Countries Cauſe: Our voy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is and it is no other than the Conſent and Voy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the People, <hi>A new free Parliament, A new free Parliaments,</hi> it is the <hi>Engliſh</hi> mans Birth-right, which we are reſolved to put the People in poſſeſſion of, or to periſh with our Swords in our hands. But if you will not joyn but degenerate, we hope notwithſtanding (by Gods bleſſing) to carry on this Work: yet
+<pb n="5" facs="tcp:106661:3"/>that juſt and glorious Work we may challange your concurrence, it being your duty as well as ours to endeavour the procurement thereof: And therefore to you make it our Propoſal, to your <hi>Militia,</hi> to the Army, and the whole People, for the prevention of a New War, and the effu<g ref="char:EOLhyphen"/>ſion of <hi>Engliſh</hi> blood, that you would be Inſtrumental with us for the ſpeedy Election of a <hi>New-Free-Parliament,</hi> for the ends aforeſaid; and in the neer in all hoſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ity to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e forborn, and that a cay may be appoin<g ref="char:EOLhyphen"/>ted, and the People ſuffered to go to their free Elections, and we ſhall quietly ſubmit unto their Authority; heartily de<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing that all revenge, diviſion, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or, and a<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>oſity of ſpirit may be for ever buried in one General <hi>Act of Oblivion;</hi> And that all Parties, Sects, and Sorts (now ja<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng, and making up intereſts one againſt another) may reconcile, ce<g ref="char:EOLhyphen"/>ment, and concente in the common Brotherhood of <hi>Engliſh</hi> Freedome and Right; in and for which we are.</p>
+            <closer>
+               <signed>George Booth.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:106661:4"/>
+            <head>The <hi>Anſwer</hi> of ſome, if not All the Citizens of <hi>London</hi> and Free-men of <hi>England,</hi> to a Paper entituled, <hi>An Expreſſe from the Knights and Gentlemen now engaged with Sir</hi> George Booth.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>HAd you declared more for THINGS then MEN, more for GO<g ref="char:EOLhyphen"/>VERNMENT then GOVERNOURS, we might perhaps have acquieſſed, or concurred with you; But to hope only for CHANGES of Governours, which you your ſelves acknowledge Vexation and Op<g ref="char:EOLhyphen"/>preſſion, can be but variety of Miſeries, not true and certain comfort or ſatisfaction.</p>
+            <p>You Declare againſt thoſe men That handle the Helm at <hi>VVestmin<g ref="char:EOLhyphen"/>ster.</hi> Are we ſure you are better?</p>
+            <p>You cry up <hi>Magna Charta,</hi> Fundamental Law, Birth-rights, Liberties, Taking off Taxes: So do they. You ſwear it: So have they. You will ſecure Parl. &amp; Magiſtrates from violence, and Protect us: ſo do they. But can you do it without an Army? And if by an Army, is it not the ſame thing? Unleſſe you have gotten the ſecreet of Dr. <hi>Chamberlen</hi>'s <hi>Chimera,</hi> to maintain an Army without Taxes; and the poor without invading Proprieties. But why will you do it now, and not when you were of the Parliament? Was not Sir <hi>George Booth</hi> and Sir <hi>Tho. Mid<g ref="char:EOLhyphen"/>dleton,</hi> and others of you ſometimes of this very Parliament? Did you not Vote and Declare, and Swear with them? Nay, did you not Vote us into Blood, Oaths and Proteſtations, and there leave us? And now we en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy ſome Peace, would you engage us into Blood again? 'Tis you and ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h as you have occaſioned our Armies, and for that cauſe are Taxes raiſed to maintain thoſe Armies, which you occaſioned; And it is ſu<g ref="char:EOLhyphen"/>ſpected, that had not your party uſed your Cat's Paw for an Order for Tythes, to diſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lidge the Parliaments friends and grati<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e the Enemies (your Pulpit Heralds) to embolden them to P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>each Sedition by the Hour, and betray the very Conſcience to Rebellion; And for an Act to raiſe a Militia to Pay the Army, or at leaſt provoke them to jealouſie, contriving the Common people into a Tribe of <hi>Iſachar</hi> couching be<g ref="char:EOLhyphen"/>tween two Burthens; And an Act for new Aſſeſsements one year and three Moneths before hand; whil'ſt they that gleaned away the old ones and many Millions more, are ſecured by an Act of Indempnity, to in<g ref="char:EOLhyphen"/>cenſe the whole Nation the more againſt them you had not ſo far ad<g ref="char:EOLhyphen"/>vanced in your Rebellion, as to begin a new War.</p>
+            <p>You hope we will adviſe before we preceed to a new War, and in the
+<pb n="7" facs="tcp:106661:4"/>mean time you Act it: proclaiming you will hazzard your Blood, and pe<g ref="char:EOLhyphen"/>riſh with your Swords in your hands: And that when no ſign of War remained but an Army; An Army that had nothing to do but to receive Pay. Ought you not firſt to have adviſed with us? Is it ſo you mean to Protect us, by fighting with us? For you ſay, You will Protect us. But can you Protect your ſelves? Why ſhould you be our Protectors? Why not we yours? You will Protect us if we ſubmit to you: ſo will the <hi>Turk</hi> or any forreign Prince. We have too lately felt the weight of a Protector. The Lord Protect us, and then we ſhall not need you nor any elſe; yea He hath protected us, for He is our Judge, our Lord, our King, he will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave us.</p>
+            <p>Your Reſult is, To give us a Free Parliament. What's that? To bring us back to 41 or 42? That were to fight over the ſame leſſon again. Why do you not ſpeak out, and ſay you would have a King? Or, muſt we be ſubject both to Sir <hi>George Booth</hi> &amp; a King? For both Proclamations were contemporary. This jugling away the lives and ſouls of men is a ſad buſineſſe. A Free Parliament hath been pretended in the ſeveral Moods and Figures of the Old Protector, till at laſt we came to a Linſy-Woolſy Parliament of <hi>Engliſh, Scottiſh</hi> and <hi>Iriſh,</hi> as being all alike en<g ref="char:EOLhyphen"/>ſlaved to his Will, And the firſt work was in pure zeal, to enſlave the Conſcience of thoſe whom their godly Miniſters could not convince: whoſe powerful preaching hath at laſt enſlaved you into this <hi>Bellum Presbyteriale,</hi> Wherein though you challenge us, to be of the ſame Bo<g ref="char:EOLhyphen"/>dy of the Engliſh Nation; yet you cannot be ignorant, that if every member of the Body inflame into a Gangreen, it muſt be cut off leſt the whole periſh.</p>
+            <p>A Free Parliament you fight for ſecured from Violence: And a Free Parliament we have already ſecured from Violence, ſecured even from your violence that would invade it. A Parliament freely choſen in the moſt dangerous of times. A Parliament confirmed by King and Lords, and owned by all the Counties of the Nation. A Parl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ament whoſe Au<g ref="char:EOLhyphen"/>thority God himſelf hath owned, and born witneſſe to in all the great things he hath done in theſe three Nations: and hath miraculouſly gi<g ref="char:EOLhyphen"/>ven them a Reſurrection beyond the very deſign of thoſe that brought it to paſſe. And whileſt this is printing ſendeth Tidings of Victory in fur<g ref="char:EOLhyphen"/>ther confirmation. A Parliament ſifted and refined. Would you have it now fil'd with droſſe again and rubbiſh?</p>
+            <p>But you deſpiſe it becauſe the number is ſmall, Will you deſpiſe the day of ſmall things? You deſpiſe it becauſe deſerted by ſo many: There<g ref="char:EOLhyphen"/>fore the more they are to be eſteemed, who ſo long have continued con<g ref="char:EOLhyphen"/>ſtant.
+<pb n="8" facs="tcp:106661:5"/>But you could not Act with them, or ſome of you were driven away from them; the more unfit ſuch to be <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Parliaments, who want eit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e wiſdom to argue out a good Cauſe, it they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or valour to proteſt againſt a bad one, o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dy in the controve <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And now at preſent, had you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad reaſon in your doings, what needed you a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ought <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y force, ſince Beaſts overco<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by force, and Men by Rea<g ref="char:EOLhyphen"/>ſon, even to the engagin, of force againſt unreaſonable and beaſtly Men.</p>
+            <p>But why is the ſpleen againſt theſe men? Can you exclude the your New Parliament, who could not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their choice your Inſt motley Parliament, nor outereaſon their Arguments againſt you, though <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> under one roof? And why muſt you do it in haſte and all in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lood<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? Could you not ſtay till their ſhort me by themſelves Emitted to <hi>May</hi> next, to have left the without excuſe? For whileſt you now find fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le, you furn <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them with juſt excuſes and vindreations, by your frequent and moſt dangerous interruptions.</p>
+            <p>We know the Liberty of the Nation is invaded, Treaſure waſted, and Trade decayed, and the poor famiſhed; But is all that to be mended by your Laws, They are the Laws that cauſe them. For whileſt the Legiſla<g ref="char:EOLhyphen"/>tive Power remains in lowder ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, or nays of Parliament, though many things may be unjuſt, yet nothing is illegal, eſpecially being into pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by a gang of Judges and Lawyers, alwa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es to want is uppermoſt. And this is the reaſon why Lawes are as Changeable <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. And <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> prove<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> good; New Lords new Laws. Whereas if the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> power be owned by whom Kings Reign, Whereby in King <hi>Alfred</hi> days Peace and proſperity rejoyced this whole Nations And in King <hi>Solomons</hi> dayes Silve was as the Stones in Jeruſalem, and all the people dwelt in lafety every man under his own Vine and under his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Then may we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyn in peace with joy and gladneſs, eating and drinking and making merry, and none to make us afraid. Then ſhall we nay Judges as at firſt, and Counſellors as at the beginning. All tears ſhall he wiped from our eys, all ſorrows from our hearts. The poor ſhall be no more Oppreſſed, nor honeſt men Arreſted, nor Impriſoned Men ſhall no more be Preſt to fight againſt their Will or Conſcience But our Swords ſhall be bearen into Plough-ſhares, and our Spears into pruning hooks; Nor ſhall there be any complaint in all the Holy Mountain of the Lord.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Publiſhed for generall ſatisfaction.</p>
+            <p>LONDON, <hi>Printed by</hi> J. Clowes, 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
